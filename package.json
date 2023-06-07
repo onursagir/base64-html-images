@@ -8,7 +8,7 @@
     "images"
   ],
   "description": "Replace images in HTML file with base64 string",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "scripts": {
     "dev": "tsup ./src/cli.ts --watch --format esm",
